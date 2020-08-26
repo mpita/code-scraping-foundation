@@ -1,2 +1,0 @@
-links = //h2[@class="headline"]/a/@href
-links2 = //div[@class="V_Title"]/a/@href
